@@ -15,6 +15,7 @@ ________________________________________________________________________________
   -  Virtual Private Networks (Proton VPN) Setup and Usage
 <h2>🤳Connect with me:</h2>
 
-[<img align="left" alt="Justin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Justin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][www.linkedin.com/in/justinstone657
+]
 
 [linkedin]: www.linkedin.com/in/justinstone657
