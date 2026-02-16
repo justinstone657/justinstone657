@@ -1,4 +1,4 @@
-<img width="980" height="980" alt="image" src="https://github.com/user-attachments/assets/6121f9e4-fb9c-443c-aada-8f52b27ec4f4" />
+<img width="480" height="480" alt="image" src="https://github.com/user-attachments/assets/6121f9e4-fb9c-443c-aada-8f52b27ec4f4" />
 __________________________________________________________________________________________________
 
 <h1>Hi, I'm Justin Stone, an <a href="www.linkedin.com/in/justinstone657">IT Professional</a>☺</h1>
