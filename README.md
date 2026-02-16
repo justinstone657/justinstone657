@@ -3,11 +3,11 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/justinstone657/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/justinstone657/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/justinstone657/ticket-lifecycle)
+  - [osTicket: Prerequisites and Installation]
+  - [osTicket: Post-Installation Configuration]
+  - [osTicket: Ticket Lifecycle Examples]
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/justinstone657/configure-ad)
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/justinstone657/Active-Directory-Lab)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/justinstone657/azure-network-protocols)
   -  Virtual Private Networks (Proton VPN) Setup and Usage
 <h2>🤳Connect with me:</h2>
